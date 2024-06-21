@@ -1,0 +1,10 @@
+datos/UsuarioM.class
+datos/Conexion.class
+domain/Usuario.class
+datos/TablaM.class
+domain/Verbo.class
+datos/Movement.class
+test/PruebaBDD.class
+domain/Tabla.class
+domain/Verb.class
+datos/Movimiento.class
